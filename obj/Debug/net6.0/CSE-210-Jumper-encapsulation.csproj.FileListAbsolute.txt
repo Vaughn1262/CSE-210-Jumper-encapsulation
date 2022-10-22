@@ -1,0 +1,15 @@
+C:\Users\vaugh\Git\CSE-210-Jumper-encapsulation\obj\Debug\net6.0\CSE-210-Jumper-encapsulation.csproj.AssemblyReference.cache
+C:\Users\vaugh\Git\CSE-210-Jumper-encapsulation\obj\Debug\net6.0\CSE-210-Jumper-encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaugh\Git\CSE-210-Jumper-encapsulation\obj\Debug\net6.0\CSE-210-Jumper-encapsulation.AssemblyInfoInputs.cache
+C:\Users\vaugh\Git\CSE-210-Jumper-encapsulation\obj\Debug\net6.0\CSE-210-Jumper-encapsulation.AssemblyInfo.cs
+C:\Users\vaugh\Git\CSE-210-Jumper-encapsulation\obj\Debug\net6.0\CSE-210-Jumper-encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\vaugh\Git\CSE-210-Jumper-encapsulation\bin\Debug\net6.0\CSE-210-Jumper-encapsulation.exe
+C:\Users\vaugh\Git\CSE-210-Jumper-encapsulation\bin\Debug\net6.0\CSE-210-Jumper-encapsulation.deps.json
+C:\Users\vaugh\Git\CSE-210-Jumper-encapsulation\bin\Debug\net6.0\CSE-210-Jumper-encapsulation.runtimeconfig.json
+C:\Users\vaugh\Git\CSE-210-Jumper-encapsulation\bin\Debug\net6.0\CSE-210-Jumper-encapsulation.dll
+C:\Users\vaugh\Git\CSE-210-Jumper-encapsulation\bin\Debug\net6.0\CSE-210-Jumper-encapsulation.pdb
+C:\Users\vaugh\Git\CSE-210-Jumper-encapsulation\obj\Debug\net6.0\CSE-210-Jumper-encapsulation.dll
+C:\Users\vaugh\Git\CSE-210-Jumper-encapsulation\obj\Debug\net6.0\refint\CSE-210-Jumper-encapsulation.dll
+C:\Users\vaugh\Git\CSE-210-Jumper-encapsulation\obj\Debug\net6.0\CSE-210-Jumper-encapsulation.pdb
+C:\Users\vaugh\Git\CSE-210-Jumper-encapsulation\obj\Debug\net6.0\CSE-210-Jumper-encapsulation.genruntimeconfig.cache
+C:\Users\vaugh\Git\CSE-210-Jumper-encapsulation\obj\Debug\net6.0\ref\CSE-210-Jumper-encapsulation.dll
