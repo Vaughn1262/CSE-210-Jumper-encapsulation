@@ -4,7 +4,7 @@ class Wordlist {
     
 // Generates a list of words for the user to guess the letters.
     public Wordlist(){
-    words.Add("Dog");
+    words.Add("dog");
     words.Add("cat");
     words.Add("zebra");
     words.Add("monkey");
